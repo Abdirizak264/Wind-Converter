@@ -6,7 +6,7 @@ HTML, CSS & JavaScript
 https://abdirizak264.github.io/Wind-Converter/
 
 # install to locally
--   Clone the repository:
+-   Clone the repository:   https://github.com/Abdirizak264/Wind-Converter.git
 -   Run to one of the web browsers
 
 # Screen captures
