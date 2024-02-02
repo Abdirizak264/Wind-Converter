@@ -1,0 +1,20 @@
+body, #convert, p{
+    background-color: rgb(26, 29, 31);
+    color: rgb(248, 248, 252);
+    text-align: center;
+}
+
+p, #convert, label{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#space{
+    padding-top: 10%;
+}
+
+#convert{
+    padding: 10px;
+    border-color: rgb(248, 248, 252);
+}
+
